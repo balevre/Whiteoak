@@ -6380,6 +6380,7 @@ input, select, textarea {
 		position: relative;
 		width: 100%;
 		background-color: transparent;
+		background-size: cover;
 	}
 
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {

@@ -6380,7 +6380,6 @@ input, select, textarea {
 		position: relative;
 		width: 100%;
 		background-color: transparent;
-		background-size: cover;
 	}
 
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
@@ -6503,12 +6502,14 @@ input, select, textarea {
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
 				display: block;
+				height: 100%;
 				width: 100%;
 				border-radius: 0;
 			}
 
 				.gallery.style1 article .image img {
 					display: block;
+					height: 100%;
 					width: 100%;
 					border-radius: 0;
 				}

@@ -6947,7 +6947,7 @@ input, select, textarea {
 					margin-bottom: 0;
 				}
 
-			.gallery.style2 article:hover .caption {
+			.gallery.style2 article .caption {
 				opacity: 1;
 			}
 

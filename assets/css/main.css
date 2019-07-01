@@ -6566,7 +6566,7 @@ input, select, textarea {
 					margin-bottom: 0;
 				}
 
-			.gallery.style1 article:hover .caption {
+			.gallery.style1 article .caption {
 				opacity: 1;
 			}
 

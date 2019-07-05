@@ -2568,6 +2568,7 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
+			background-color: White;
 		}
 
 		.icon > .label {
@@ -7228,8 +7229,6 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: auto;
-		background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)),url(https://cdn.pixabay.com/photo/2017/10/30/13/22/wood-2902504_960_720.jpg);
-		background-size: cover;
 	}
 
 		.wrapper.style1 > .inner.medium {
@@ -7288,6 +7287,8 @@ input, select, textarea {
 			position: relative;
 			width: 64rem;
 			z-index: 1;
+			background-image:linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)),url(https://cdn.pixabay.com/photo/2017/10/30/13/22/wood-2902504_960_720.jpg);
+			background-size: cover;
 		}
 
 			.wrapper.style2 > .inner.medium {
